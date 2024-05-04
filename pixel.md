@@ -9,7 +9,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-WPQP5D8P');</script>
 <!-- End Google Tag Manager -->
 
-<br>
+<br><br>
 2. Cole este código imediatamente após a tag de abertura <body>:
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WPQP5D8P"
