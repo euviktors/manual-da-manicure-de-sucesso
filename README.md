@@ -13,3 +13,5 @@ Pixel GADS
 <br><br>
 
 ID de conversão: 16482547786
+<br><br>
+https://euviktors.github.io/manual-da-manicure-de-sucesso/
